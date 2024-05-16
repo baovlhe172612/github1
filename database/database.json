@@ -1,0 +1,151 @@
+{
+  "book-room": [
+    {
+      "id": "78d2",
+      "fullName": "Vũ Lương Bảo",
+      "phoneNumber": "0123456789",
+      "email": "vuluongbao.qc2003@gmail.com",
+      "service": [
+        "Thuê ô tô 4 chỗ"
+      ],
+      "gift": "Mũ",
+      "date": [
+        "11-05-2024",
+        "18-05-2024"
+      ],
+      "time": "14 giờ"
+    },
+    {
+      "id": "70c6",
+      "fullName": "Vũ Lương Bảo",
+      "phoneNumber": "0123456789",
+      "email": "vuluongbao.qc2003@gmail.com",
+      "service": [
+        "Thuê ô tô 16 chỗ"
+      ],
+      "gift": "Tranh",
+      "date": [
+        "18-05-2024",
+        "25-05-2024"
+      ],
+      "time": "20 giờ"
+    },
+    {
+      "id": "c2ca",
+      "fullName": "Vũ Lương Bảo",
+      "phoneNumber": "0123456789",
+      "email": "vuluongbao.qc2003@gmail.com",
+      "service": [
+        "Thuê ô tô 16 chỗ"
+      ],
+      "gift": "Móc khoá",
+      "date": [
+        "25-05-2024",
+        "31-05-2024"
+      ],
+      "time": "22 giờ"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "21e0",
+      "username": "Phòng 1",
+      "quantityBed": 2,
+      "quantityPeople": 4,
+      "utils": [
+        "Wifi",
+        "Nóng Lạnh",
+        "Điều hoà"
+      ],
+      "status": true
+    },
+    {
+      "id": "1ff6",
+      "username": "Phòng 2",
+      "quantityBed": 3,
+      "quantityPeople": 5,
+      "utils": [
+        "Wifi",
+        "Nóng Lạnh",
+        "Điều hoà"
+      ],
+      "status": true
+    },
+    {
+      "id": "87ae",
+      "username": "Phòng 3",
+      "quantityBed": 3,
+      "quantityPeople": 6,
+      "utils": [
+        "Wifi",
+        "Nóng Lạnh",
+        "Điều hoà"
+      ],
+      "status": true
+    },
+    {
+      "id": "b5de",
+      "username": "Phòng 4",
+      "quantityBed": 2,
+      "quantityPeople": 4,
+      "utils": [
+        "Wifi",
+        "Nóng Lạnh",
+        "Điều hoà"
+      ],
+      "status": true
+    },
+    {
+      "id": "4c61",
+      "username": "Phòng 5",
+      "quantityBed": 4,
+      "quantityPeople": 8,
+      "utils": [
+        "Wifi",
+        "Nóng Lạnh",
+        "Điều hoà"
+      ],
+      "status": true
+    },
+    {
+      "id": "4711",
+      "username": "Phòng 9",
+      "quantityBed": 5,
+      "quantityPeople": 10,
+      "utils": [
+        "Nóng Lạnh",
+        "Điều hoà",
+        "Wifi"
+      ],
+      "typeroom": true,
+      "status": true
+    },
+    {
+      "id": "bb0a",
+      "username": "Phòng 6",
+      "quantityBed": 4,
+      "quantityPeople": 8,
+      "utils": [
+        "Nóng Lạnh",
+        "Wifi",
+        "Điều hoà"
+      ],
+      "typeroom": true,
+      "status": true
+    },
+   
+    {
+      "id": "a9df",
+      "username": "Phòng 15",
+      "quantityBed": 5,
+      "quantityPeople": 10,
+      "utils": [
+        "Wifi",
+        "Nóng Lạnh",
+        "Điều hoà"
+      ],
+      "typeroom": true,
+      "status": true
+    }
+  ]
+}
